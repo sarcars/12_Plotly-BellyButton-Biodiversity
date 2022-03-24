@@ -26,10 +26,10 @@ h5 {
     text-decoration-color:#047986
 } 
 
-/* div {
-    padding: 25px 25px;
-
-} */
+.jumbotron {
+    background-image: url(../../images/Bacteria.png);
+    background-size: cover;
+    height: 100%;}
 /* div {
     color: #204488;
 } */
