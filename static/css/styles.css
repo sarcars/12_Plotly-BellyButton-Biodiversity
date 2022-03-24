@@ -1,0 +1,40 @@
+/* .m-top-75 {
+  margin-top: 75px;
+} */
+
+.jumbotron h1{
+    color:azure;
+}
+
+.jumbotron p{
+    color:blanchedalmond;
+}
+
+h5 {
+    font-family: "Monaco", "Courier New", monospace;
+}
+
+
+body {
+    background-color: #076c7e;
+    opacity: 0.9
+}
+   
+h5 {
+    color: #047986;
+    text-decoration-line: underline;
+    text-decoration-color:#047986
+} 
+
+/* div {
+    padding: 25px 25px;
+
+} */
+/* div {
+    color: #204488;
+} */
+  
+  /* span {
+    background-color: #f18973;
+} */
+
